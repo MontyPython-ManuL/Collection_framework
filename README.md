@@ -4,6 +4,7 @@
 ### It`s so easy code we should press -start and this code reverse text, but all words stay on the same place
 
 
+
 1. We create the function rev_text(text): 
 ````python
 def rev_text(text):
