@@ -40,7 +40,7 @@ def rev_text(text):
 ````python
 if __name__ == '__main__':
 ````
-7.Create list for test to assert
+7.Create list for test to assert.
 ````python
 if __name__ == '__main__':
     cases = [
