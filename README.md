@@ -8,10 +8,9 @@
 
 ![Іллюстрація до проєкту](img_for_readme/image_2023-02-23_14-26-31.png)
 
+---
 
 ## Launching
-
----
 
 ### Local
 * run `python anagrams_unit_tests`
